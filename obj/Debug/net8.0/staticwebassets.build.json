@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "pMrygU8GAuG6oNkBGva8tOmLT7IAu93PhNed/LhRa6M=",
+  "Source": "PaymentTrackerApi",
+  "BasePath": "_content/PaymentTrackerApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
